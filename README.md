@@ -12,6 +12,7 @@ Objetivo: predecir el sistema operativo de un usuario a partir de sus interaccio
 
 3) Predicción de presión arterial
 
+
 Objetivo: predecir la presión arterial de personas usando variables explicativas (horas de sueño, actividad física, etc.).
 
 Tecnologías utilizadas
@@ -25,5 +26,6 @@ Tecnologías utilizadas
 -Matplotlib, Seaborn
 
 -Jupyter Notebook
+
 
 Los datasets están incluídos en la carpeta "Datasets" y las 3 Jupyter Notebooks están en la carpeta "Notebooks".
